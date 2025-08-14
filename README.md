@@ -11,9 +11,8 @@ O app foi pensado como um suplemento às disciplinas de Introdução à Programa
 - Favorecer a competição saudável entre equipes
 
 ## Tecnologias Utilizadas
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Supabase](https://supabase.com/)
 
 ## Desenvolvido por:
 - [Ana Beatriz Sena](https://github.com/anabeazs)
