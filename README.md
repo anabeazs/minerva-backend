@@ -1,5 +1,5 @@
 # Minerva - App de Apoio ao Ensino de Lógica de Programação
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Minerva** é um aplicativo mobile desenvolvido em **React Native** para auxiliar estudantes no ensino e aprendizagem de **lógica de programação** de forma gamificada.
 O app foi pensado como um suplemento às disciplinas de Introdução à Programação, proporcionando um ambiente interativo, competitivo e motivador.
